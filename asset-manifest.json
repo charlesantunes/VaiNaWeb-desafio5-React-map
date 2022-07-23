@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/VaiNaWeb-desafio5-React-map/static/css/main.3d060624.css",
+    "main.js": "/VaiNaWeb-desafio5-React-map/static/js/main.b73b0004.js",
+    "static/media/Chelsea.png": "/VaiNaWeb-desafio5-React-map/static/media/Chelsea.32a9178933f6a0aef829.png",
+    "static/media/Corinthians.png": "/VaiNaWeb-desafio5-React-map/static/media/Corinthians.7f0c1f1f2eb2ba802c94.png",
+    "static/media/PSG.png": "/VaiNaWeb-desafio5-React-map/static/media/PSG.1c3a426c7537e0f5893b.png",
+    "static/media/RealMadrid.png": "/VaiNaWeb-desafio5-React-map/static/media/RealMadrid.e88c599c117784d50109.png",
+    "static/media/Paysandu.png": "/VaiNaWeb-desafio5-React-map/static/media/Paysandu.f187b2d1dddf9afe3f58.png",
+    "static/media/Flamengo.png": "/VaiNaWeb-desafio5-React-map/static/media/Flamengo.aa5f93170c8ace7e2fe3.png",
+    "index.html": "/VaiNaWeb-desafio5-React-map/index.html",
+    "main.3d060624.css.map": "/VaiNaWeb-desafio5-React-map/static/css/main.3d060624.css.map",
+    "main.b73b0004.js.map": "/VaiNaWeb-desafio5-React-map/static/js/main.b73b0004.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d060624.css",
+    "static/js/main.b73b0004.js"
+  ]
+}
